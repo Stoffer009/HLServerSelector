@@ -46,7 +46,7 @@ public class GUI implements Listener {
         barrier.setItemMeta(barriermeta);
         prisonmeta.setDisplayName("§aPrison");
         List<String> lore = new ArrayList<>();
-        lore.add("§7Klik her for at joine §fPrison.");
+        lore.add("§7Klik her for at joine §aPrison.");
         prisonmeta.setLore(lore);
         prison.setItemMeta(prisonmeta);
         inventory.setItem(22, prison);
