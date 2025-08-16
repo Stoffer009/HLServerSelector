@@ -1,5 +1,5 @@
 main: com.hotmail.stoffer009.ServerSelector
-name: ServerSelector
+name: HLServerSelector
 version: "1.0"
 api-version: "1.21.5"
 depend: [ HeadDatabase ]
