@@ -1,0 +1,4 @@
+main: com.hotmail.stoffer009.ServerSelector
+name: ServerSelector
+version: "1.0"
+depend: [ HeadDatabase ]
