@@ -1,4 +1,5 @@
 main: com.hotmail.stoffer009.ServerSelector
 name: ServerSelector
 version: "1.0"
+api-version: "1.21.5"
 depend: [ HeadDatabase ]
