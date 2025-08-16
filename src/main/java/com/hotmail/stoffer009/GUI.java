@@ -60,11 +60,11 @@ public class GUI implements Listener {
             inventory.setItem(45, glas);
             inventory.setItem(46, barrier);
             inventory.setItem(47, barrier);
-            testservermeta.setDisplayName("§cTestServer1");
+            testservermeta.setDisplayName("§cTestserver §f1");
             testserver.setItemMeta(testservermeta);
             inventory.setItem(48, testserver);
             inventory.setItem(49, barrier);
-            testservermeta.setDisplayName("§cTestServer2");
+            testservermeta.setDisplayName("§cTestserver §f2");
             testserver.setItemMeta(testservermeta);
             inventory.setItem(50, testserver);
             inventory.setItem(51, barrier);
